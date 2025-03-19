@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm duyocd</h1>
 <h3 align="center">A data enthusiast from Vietnam</h3>
 
-<h4 align="left">🌟🌟 I'm Phạm Đức Duy, a Data Engineer intern at ISTT, a technology transfer company. I focus on Data Science, AI/ML, and Data Engineering. Currently, I am pursuing a degree in computer science and continuously improving my programming skills while exploring the IT field to gain deep knowledge.
+<h4 align="center">🌟🌟 I'm Phạm Đức Duy, a Data Engineer intern at ISTT, a technology transfer company. I focus on Data Science, AI/ML, and Data Engineering. Currently, I am pursuing a degree in computer science and continuously improving my programming skills while exploring the IT field to gain deep knowledge.🌟🌟
 </h4>
 
  <div align="center">
