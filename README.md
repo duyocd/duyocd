@@ -14,3 +14,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duyocd&" alt="duyocd" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=duyocd&show_icons=true&locale=en&layout=compact" alt="duyocd" /></p>
 
+<!--<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Thank+You!+👍;+for+your+visit+📱+!;" />
+</h1>-->
+
+
+
+<!-- ending-->
+<a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif"><img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
