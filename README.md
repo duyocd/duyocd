@@ -1,11 +1,27 @@
 <h1 align="center">Hi 👋, I'm duyocd</h1>
 <h3 align="center">A data enthusiast from Vietnam</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=duyocd&label=Profile%20views&color=0e75b6&style=flat" alt="duyocd" /> </p>
+<h4 align="left">🌟🌟 I'm Phạm Đức Duy, a Data Engineer intern at ISTT, a technology transfer company. I focus on Data Science, AI/ML, and Data Engineering. Currently, I am pursuing a degree in computer science and continuously improving my programming skills while exploring the IT field to gain deep knowledge.
+</h4>
 
-- 🌱 I’m currently learning **data engineering**
+ <div align="center">
+<a href="https://github.com/duyocd">
+  <img width="162px" 
+       src="https://komarev.com/ghpvc/?username=duyocd&label=Profile%20views&color=318CE7&style=for-the-badge" 
+       alt="Profile views" /></a>
+<a href="https://api.github-star-counter.workers.dev/user/duyocd">
+  <img width="115px" 
+       alt="Total stars" 
+       title="Total stars on GitHub" 
+       src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=318CE7&labelColor=505050&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/duyocd" /></a>
+<a href="https://github.com/duyocd?tab=followers">
+  <img width="147px" 
+       alt="Followers" 
+       title="Follow me on GitHub" 
+       src="https://custom-icon-badges.herokuapp.com/github/followers/duyocd?color=318CE7&labelColor=505050&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" /></a>
+ </div>
 
-- 📫 How to reach me **duyph6770@gmail.com**
+
 
 <h3 align="center">💻 Tech Stack:</h3>
      <br/>
@@ -38,14 +54,6 @@
 
 <br/><br/>
 
-
-<!--<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Thank+You!+👍;+for+your+visit+📱+!;" />
-</h1>-->
-
-
-
-<!-- ending-->
 <a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif"><img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
